@@ -1,14 +1,14 @@
-<h1><a href="https://www.weltpixel.com/magento-2-quick-cart-checkout.html">Magento 2 Enhanced Quick Cart by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-quick-cart-checkout.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Enhanced Quick Cart by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-quick-cart-checkout.html"><img src="https://www.weltpixel.com/media/catalog/product/q/u/quickcart_1.png" alt="Enhanced Quick Cart by Weltpixel"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-quick-cart-checkout.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/q/u/quickcart_1.png" alt="Enhanced Quick Cart by Weltpixel"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	<h1>ABOUT MAGENTO 2 ENHANCED QUICK CART EXTENSION.</h1>
-  	<p>
+    <h1>ABOUT MAGENTO 2 ENHANCED QUICK CART EXTENSION.</h1>
+    <p>
 The Magento 2 Quick Cart Extension takes your mini cart to the next level with responsive design and conversion oriented features. Optimize user experience by allowing cart summary review in one glace, without leaving the product page.
     </p>
     <p>
@@ -18,8 +18,8 @@ This reduces checkout steps and minimizes friction. The result? Improved convers
 You can also advertise your attractive Free Shipping options to increase order values by using dynamic Custom Messages, fully compatible with multiple currencies, to get users excited about spending more in order to benefit from Free Shipping. A message can be displayed before the minimum order value for Free Shipping is met, and a different message afterward.
     </p>
     <video src="https://www.weltpixel.com/media/wysiwyg/product-quick-cart/open-cart.mp4 " autoplay="" loop="" muted="" type="video/mp4" preload="auto" class="box-shadow"></video>
-         <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-quick-cart-checkout.html">Magento 2 Enhanced Quick Cart by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+         <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-quick-cart-checkout.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Enhanced Quick Cart by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                             </div></td>
  </tr>
 </table>
@@ -192,8 +192,8 @@ You can also advertise your attractive Free Shipping options to increase order v
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                                                                                                           <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -208,9 +208,9 @@ You can enable the extension:
 <p>
 <li>
 <strong>General Settings</strong>
-	</li>
+  </li>
 </p>
-	  <p>
+    <p>
 -<strong>Enable</strong> - [ Yes / No ] Enable / Disable Quick Cart on your store
     </p>
     <p>
@@ -349,4 +349,4 @@ By using the {amount_needed} variable in the first message, you can turn it into
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-quick-cart-checkout.html">Magento 2 Enhanced Quick Cart by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-quick-cart-checkout.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Enhanced Quick Cart by WeltPixel.</a></h3>
